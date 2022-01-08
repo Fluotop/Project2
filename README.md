@@ -1,7 +1,7 @@
 # Project2
 
 Analysis of the effect covid19 infection has on cardiomyocytes.
-Analysis can be found in the master notebook which will redirect to the DESEQ notebook.
+Analysis was carried out in Bash and R and can be found in the master notebook(Bash) which will redirect to the DESEQ(R) notebook.
 
 Data
 ---
