@@ -18,4 +18,4 @@ Upregulated and downregulated genes were analysed using thid party webtools g:pr
 
 Conclusion
 ---
-Covid19 infection of cardiomyocytes has a negative effect on the normal function of mitochondria. This makes the hearth have not enough energy to function properly and leads to hearth failure 
+Covid19 infection of cardiomyocytes has a negative effect on the normal function of mitochondria. This makes the hearth have not enough energy to function properly and leads to hearth failure. These results are inline with the paper except that I find no direct evidence for increased apoptosis in cardiomyocytes.
